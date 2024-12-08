@@ -11,11 +11,11 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "7406063584:AAGK-fbUFXqdLKlbtBOBk3m0fmD2fLUH0Hs"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "6918300873"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
@@ -23,23 +23,23 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "url"
+      "value": "mongodb+srv://jaychonkar57:08r9haK7qmOm8Ykg@flexgpt.err87.mongodb.net/?retryWrites=true&w=majority&appName=Flexgpt"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "filesharexbot"
+      "value": "Flexgpt"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": ""
+      "value": "d1ad0e46cda0bdd7f44001040b909e22"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-100"
+      "value": "-1002199345415"
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value": "0"
+      "value": "-1002240317707"
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
@@ -47,7 +47,7 @@
     },
     "START_PIC": {
       "description": "Optional: URL or file path of the image to be sent as the start message,",
-      "value": " "
+      "value": "https://i.ibb.co/19G8Zqs/DALL-E-2024-12-07-20-33-05-A-professional-and-sleek-logo-for-a-file-sharing-bot-incorporating-a-styl.webp"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
@@ -55,7 +55,7 @@
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
-      "value": "",
+      "value": "6918300873",
       "required": false
     },
     "PROTECT_CONTENT": {
@@ -65,7 +65,7 @@
     },
     "AUTO_DELETE_TIME": {
       "description": "Set the time in seconds for the automatic deletion of the file. Default is 0, meaning auto-deletion is disabled unless specified.",
-      "value": "0"
+      "value": "1200"
     },
     "AUTO_DELETE_MSG": {
       "description": "The custom message shown to the user before the file is automatically deleted. You can include a countdown with {time}.",
