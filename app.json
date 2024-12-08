@@ -6,8 +6,8 @@
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "repository": "https://github.com/DarkBjs/file",
+  "logo": "https://i.ibb.co/19G8Zqs/DALL-E-2024-12-07-20-33-05-A-professional-and-sleek-logo-for-a-file-sharing-bot-incorporating-a-styl.webp",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
