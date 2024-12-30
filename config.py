@@ -17,7 +17,7 @@ APP_ID = int(os.environ.get("APP_ID", "20771536"))
 API_HASH = os.environ.get("API_HASH", "d1ad0e46cda0bdd7f44001040b909e22")
 
 #Your db channel Id
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002199345415"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1001909447082"))
 
 #OWNER ID
 OWNER_ID = int(os.environ.get("OWNER_ID", "6918300873"))
@@ -30,7 +30,7 @@ DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://jaychonkar57:08r9haK7qmOm
 DB_NAME = os.environ.get("DATABASE_NAME", "Flexgpt")
 
 #force sub channel id, if you want enable force sub
-FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002240317707"))
+FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1001909447082"))
 JOIN_REQUEST_ENABLE = os.environ.get("JOIN_REQUEST_ENABLED", None)
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
