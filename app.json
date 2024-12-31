@@ -19,7 +19,7 @@
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "20771536"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
