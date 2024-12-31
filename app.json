@@ -23,11 +23,11 @@
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "mongodb+srv://jaychonkar57:08r9haK7qmOm8Ykg@flexgpt.err87.mongodb.net/?retryWrites=true&w=majority&appName=Flexgpt"
+      "value": "mongodb+srv://flexcoder:Guw67303@file.xpdqt.mongodb.net/?retryWrites=true&w=majority&appName=File"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "Flexgpt"
+      "value": "file"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
